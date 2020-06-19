@@ -9,7 +9,7 @@ t = dt.strftime("%d/%b")
 notify2.init("Birthday Reminder  application")
 
 #file source
-f = open("Birthday.txt")
+f = open("Your birthday txt file here")
 f1 = f.readlines()
 
 try:
